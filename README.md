@@ -1,4 +1,4 @@
-# Celery Queue Implementation
+# Celery Queue Implementation (Restaurant - Kitchen Order Queue example)
 
 to try it on local, install the required package:
 
